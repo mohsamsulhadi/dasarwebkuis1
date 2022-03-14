@@ -1,0 +1,84 @@
+.container{
+    max-width : 1080px;
+    margin : 20px auto;
+    background : #fff;
+    overflow : hidden;
+    padding : 10px;
+}
+h1{
+    text-align: center;
+}
+.header{
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    background : #00da62;
+} 
+.left{
+    width : 250px;
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    float : left;
+}
+h2{
+    text-align: center;
+}
+.left ul{
+    list-style-type : none;
+}
+.left ul li{
+    display : block;
+}
+.left ul li a{
+    display :block;
+    border-bottom : 1px solid #080808;
+    margin-bottom : 10px;
+    padding : 10px 5px;
+    font-color : #000000;
+}
+.left ul li a:hover{
+    color:#000000;
+}
+.middle{
+    width : 500px;
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    float : left;
+    }
+    .middle img{
+    max-width : 100%;
+    height : auto;
+    }
+    .middle a{
+    font-wight:bold;
+} 
+.right{ 
+ width : 200px; 
+ border : 1px solid #dedede; 
+ padding : 10px; 
+ margin : 10px; 
+ float : left; 
+ } 
+ .right ul{ 
+ list-style-type : none; 
+ } 
+ .right ul li{ 
+ display : block; 
+ } 
+ .right ul li a{ 
+ display :block; 
+ border-bottom : 1px solid #dedede; 
+ margin-bottom : 10px; 
+ padding : 10px 5px; 
+ } 
+ .right ul li a:hover{ 
+ color:#461AF3; 
+ }
+ .footer{
+    clear : both;
+    border : 1px solid #dedede;
+    padding : 15px;
+    margin : 10px;
+    background : #9E9AFB;
